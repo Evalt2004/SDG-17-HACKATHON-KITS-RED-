@@ -64,6 +64,9 @@ TOPIC 1
 
 Regression.
 
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/116806974/223622635-f4c8a915-90e9-42cf-90b5-1c3be013d626.png">
+
+
 Collab Link Given:
 
 https://colab.research.google.com/drive/1gJYSL24754yS0R2zc1I2ddv4ijalaPmp?usp=sharing
@@ -77,6 +80,9 @@ Collab Link Worked on:
 https://colab.research.google.com/drive/1JcJw7kXCL-sAU7sn9iwh4k-wKfqwZTEC
 
 TOPIC 2
+
+![image](https://user-images.githubusercontent.com/116806974/223622480-49405ff2-05fc-460f-94a3-90ca7ad88c96.png)
+
 
 KNN and K-Means:
 
