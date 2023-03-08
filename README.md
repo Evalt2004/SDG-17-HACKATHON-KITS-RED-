@@ -2,6 +2,9 @@
                      This Repository Contains the work Summary And Work done in the SDG-17 Hakathon
 ![image](https://user-images.githubusercontent.com/116806974/223617391-70febe0d-98ca-4600-85da-126bc23bc888.png)
 Name : Evalt David R
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/116806974/223620847-f7ffe30a-bfee-43c5-9eb2-824c95ff2a9c.png">
+
 Session 1 - Introducing Pandas Objects
 
 Collab Link Provided to Learn. - https://colab.research.google.com/drive/1avlURUdoWar4CtDAJQJScDSIre8H-Ad1?usp=sharing  
