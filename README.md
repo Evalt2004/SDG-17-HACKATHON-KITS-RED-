@@ -55,5 +55,22 @@ https://colab.research.google.com/drive/1TMhilYBJo--cP7jR6qCVX4ZxzaRip7Xg
 
 
 
-SESSION 2
+<img width="306" alt="image" src="https://user-images.githubusercontent.com/116806974/223621003-e97a20c5-971c-4b0f-b4aa-b1586a8c3652.png">
+
+TOPIC 1
+Regression:
+
+Collab Link Given:
+
+https://colab.research.google.com/drive/1gJYSL24754yS0R2zc1I2ddv4ijalaPmp?usp=sharing
+
+Dataset Provided:
+
+https://drive.google.com/file/d/1Qs7SkmkiOkrP1OY13KoNHLqOXspptnR1/view?usp=drive_web&authuser=0
+
+Collab Link Worked on:
+
+https://colab.research.google.com/drive/1JcJw7kXCL-sAU7sn9iwh4k-wKfqwZTEC
+
+
 
