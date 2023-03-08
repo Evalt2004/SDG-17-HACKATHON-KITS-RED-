@@ -65,6 +65,25 @@ TOPIC 1
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/116806974/223622635-f4c8a915-90e9-42cf-90b5-1c3be013d626.png">
 
 
+Regression analysis is a statistical technique used to model the relationship between variables. In coding, there are many libraries and frameworks that can be used to perform regression analysis, including:
+
+Python: NumPy, Pandas, Scikit-learn, Statsmodels, TensorFlow, Keras, PyTorch
+R: lm(), glm(), ggplot2, caret, randomForest, h2o.ai, dplyr
+Matlab: Regression Learner App, fitlm(), regress(), ridge()
+
+
+import numpy as np
+
+x = np.random.rand(100)
+y = 2*x + 1 + np.random.randn(100)*0.2
+
+A = np.vstack([x, np.ones(len(x))]).T
+m, c = np.linalg.lstsq(A, y, rcond=None)[0]
+
+print("Slope = {}, Intercept = {}".format(m, c))
+
+
+
 Colab Link Given:
 
 https://colab.research.google.com/drive/1gJYSL24754yS0R2zc1I2ddv4ijalaPmp?usp=sharing
