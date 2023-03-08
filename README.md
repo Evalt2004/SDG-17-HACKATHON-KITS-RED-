@@ -94,6 +94,8 @@ Mall_Customer.csv
 
 https://drive.google.com/file/d/1hGiPV12IwMYEK8W-xJMmEkaY2t85_72w/view?usp=drive_web&authuser=0
 
+COLLAB LINK WORKED ON:https://colab.research.google.com/drive/1jk0Mqp--V8icGRiHlnsMRMgYxH-Q3bS6
+
 
 
 
