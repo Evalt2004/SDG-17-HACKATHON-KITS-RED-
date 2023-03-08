@@ -7,7 +7,7 @@ Name : Evalt David R
 
 Session 1 - Introducing Pandas Objects
 
-Collab Link Provided to Learn. - https://colab.research.google.com/drive/1avlURUdoWar4CtDAJQJScDSIre8H-Ad1?usp=sharing  
+Colab Link Provided to Learn. - https://colab.research.google.com/drive/1avlURUdoWar4CtDAJQJScDSIre8H-Ad1?usp=sharing  
 
 COLLAB Worked on: https://colab.research.google.com/drive/1p471oC-aOPRSTpn8WZoW8JD0_mBWGlG6#scrollTo=wKd7YVbWmLxQ
 <img width="1032" alt="image" src="https://user-images.githubusercontent.com/116806974/223619198-ff78514f-145b-47a3-a4a0-1d1ed60871df.png">
@@ -49,7 +49,7 @@ Data Set provided (Titanic_visu.xlsv)
 
 https://drive.google.com/file/d/10Wp8p9bFLjXihyoRIbxhf0hT1FjazyZF/view?usp=drive_web&authuser=0
 
-COLLAB LINK WORKED ON :
+COLAB LINK WORKED ON :
 
 https://colab.research.google.com/drive/1TMhilYBJo--cP7jR6qCVX4ZxzaRip7Xg
 
@@ -65,7 +65,7 @@ TOPIC 1
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/116806974/223622635-f4c8a915-90e9-42cf-90b5-1c3be013d626.png">
 
 
-Collab Link Given:
+Colab Link Given:
 
 https://colab.research.google.com/drive/1gJYSL24754yS0R2zc1I2ddv4ijalaPmp?usp=sharing
 
@@ -73,7 +73,7 @@ Dataset Provided:
 
 https://drive.google.com/file/d/1Qs7SkmkiOkrP1OY13KoNHLqOXspptnR1/view?usp=drive_web&authuser=0
 
-Collab Link Worked on:
+Colab Link Worked on:
 
 https://colab.research.google.com/drive/1JcJw7kXCL-sAU7sn9iwh4k-wKfqwZTEC
 
@@ -84,7 +84,7 @@ TOPIC 2
 
 KNN and K-Means:
 
-Collab Link Given:
+Colab Link Given:
 
 https://colab.research.google.com/drive/1jBEASoTv_udmTQlffJgk_vmIv3xM9Lrm?usp=sharing
 
@@ -98,9 +98,21 @@ Mall_Customer.csv
 
 https://drive.google.com/file/d/1hGiPV12IwMYEK8W-xJMmEkaY2t85_72w/view?usp=drive_web&authuser=0
 
-COLLAB LINK WORKED ON:
+COLAB LINK WORKED ON:
 
 https://colab.research.google.com/drive/1jk0Mqp--V8icGRiHlnsMRMgYxH-Q3bS6
+
+
+
+TOPIC 3
+
+
+Performance Metrics:
+
+
+Colab link Given:
+
+https://colab.research.google.com/drive/1w2fzfAI_YVUJ6QCZVtTLxIlffd9xYB5-?usp=sharing
 
 
 
