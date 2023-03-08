@@ -62,8 +62,6 @@ https://colab.research.google.com/drive/1TMhilYBJo--cP7jR6qCVX4ZxzaRip7Xg
 
 TOPIC 1 
 
-Regression.
-
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/116806974/223622635-f4c8a915-90e9-42cf-90b5-1c3be013d626.png">
 
 
