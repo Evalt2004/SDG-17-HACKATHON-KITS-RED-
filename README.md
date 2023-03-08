@@ -45,3 +45,7 @@ Data Set provided (Titanic_visu.xlsv)
 
 https://drive.google.com/file/d/10Wp8p9bFLjXihyoRIbxhf0hT1FjazyZF/view?usp=drive_web&authuser=0
 
+COLLAB LINK WORKED ON 
+
+https://colab.research.google.com/drive/1TMhilYBJo--cP7jR6qCVX4ZxzaRip7Xg
+
