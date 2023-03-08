@@ -60,8 +60,9 @@ https://colab.research.google.com/drive/1TMhilYBJo--cP7jR6qCVX4ZxzaRip7Xg
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/116806974/223621003-e97a20c5-971c-4b0f-b4aa-b1586a8c3652.png">
 
-TOPIC 1
-Regression:
+TOPIC 1 
+
+Regression.
 
 Collab Link Given:
 
@@ -75,7 +76,7 @@ Collab Link Worked on:
 
 https://colab.research.google.com/drive/1JcJw7kXCL-sAU7sn9iwh4k-wKfqwZTEC
 
-TOPIC 1
+TOPIC 2
 
 KNN and K-Means:
 
