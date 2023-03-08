@@ -127,6 +127,34 @@ Colab link Worked ON:
 https://colab.research.google.com/drive/1nqEvOPYD0QNxS8af8kkdMJ-I1KMQre0w
 
 
+Assessment - 2
+
+![image](https://user-images.githubusercontent.com/116806974/223623667-d3741eb6-3bee-4d27-9c0b-f0fc18b76e1f.png)
+
+
+Group - 2:
+Develop the linear regression model for the heart disease dataset using the scikit-learn
+a. Divide the data into training (75%) and testing set (25%)
+b. Analyse the impact of smoking to the heart disease and display the intercept and
+regression coefficients
+c. Predict the y value (y’) for the testing set (x)
+d. Analyse the performance metrics with the actual value (y) and predicted values (y’)
+
+
+Dataset Provided:
+
+Heart.data.csv
+
+https://drive.google.com/file/d/1Tt-6dyNQH-bwD8ksEoG55IHXnsgl5zoY/view?usp=drive_web&authuser=0
+
+
+COLLAB LINK Worked ON:
+
+https://colab.research.google.com/drive/1NQArcRRFOTa328j8UYZ6mGdlBoPGWqUa
+
+
+
+
 
 
 
