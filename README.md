@@ -75,5 +75,24 @@ Collab Link Worked on:
 
 https://colab.research.google.com/drive/1JcJw7kXCL-sAU7sn9iwh4k-wKfqwZTEC
 
+TOPIC 1
+
+KNN and K-Means:
+
+Collab Link Given:
+
+https://colab.research.google.com/drive/1jBEASoTv_udmTQlffJgk_vmIv3xM9Lrm?usp=sharing
+
+Dataset Provided:
+
+Cancer.csv
+
+https://drive.google.com/file/d/1mFET-UxBqJMfhbDHk0gyv0UMgtLhPppd/view?usp=drive_web&authuser=0
+
+Mall_Customer.csv
+
+https://drive.google.com/file/d/1hGiPV12IwMYEK8W-xJMmEkaY2t85_72w/view?usp=drive_web&authuser=0
+
+
 
 
