@@ -74,6 +74,9 @@ Matlab: Regression Learner App, fitlm(), regress(), ridge()
 
 import numpy as np
 
+
+EXAMPLE
+
 x = np.random.rand(100)
 y = 2*x + 1 + np.random.randn(100)*0.2
 
@@ -81,6 +84,8 @@ A = np.vstack([x, np.ones(len(x))]).T
 m, c = np.linalg.lstsq(A, y, rcond=None)[0]
 
 print("Slope = {}, Intercept = {}".format(m, c))
+
+..
 
 
 
@@ -102,6 +107,35 @@ TOPIC 2
 
 
 KNN and K-Means:
+
+
+KNN (K-Nearest Neighbors) and K-Means are two popular machine learning algorithms used for classification and clustering tasks, respectively.
+
+KNN is a classification algorithm that works by finding the k nearest data points to a given test data point and assigning it the label of the majority class among those k nearest neighbors. The value of k is a hyperparameter that can be tuned to optimize performance. Here's an example of how to use the KNeighborsClassifier class from Scikit-learn to perform KNN classification:
+
+
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+
+iris = load_iris()
+X, y = iris.data, iris.target
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+
+knn = KNeighborsClassifier(n_neighbors=5)
+
+
+knn.fit(X_train, y_train)
+
+accuracy = knn.score(X_test, y_test)
+
+print("Accuracy: {:.2f}%".format(accuracy * 100))
+
+
+..
+
 
 Colab Link Given:
 
