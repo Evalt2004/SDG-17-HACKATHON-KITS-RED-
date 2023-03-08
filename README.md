@@ -115,5 +115,22 @@ Colab link Given:
 https://colab.research.google.com/drive/1w2fzfAI_YVUJ6QCZVtTLxIlffd9xYB5-?usp=sharing
 
 
+Dataset provided
+
+Income.data.csv
+
+https://drive.google.com/file/d/1wcHMQQUq44ZzE0Idz1Ck03GMQYrKHix4/view?usp=drive_web&authuser=0
+
+
+Colab link Worked ON:
+
+https://colab.research.google.com/drive/1nqEvOPYD0QNxS8af8kkdMJ-I1KMQre0w
+
+
+
+
+
+
+
 
 
