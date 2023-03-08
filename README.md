@@ -211,6 +211,44 @@ https://colab.research.google.com/drive/1NQArcRRFOTa328j8UYZ6mGdlBoPGWqUa
 <img width="191" alt="image" src="https://user-images.githubusercontent.com/116806974/223624765-8999761b-409f-4f24-8ebc-8ae116c4e21d.png">
 
 
+![image](https://user-images.githubusercontent.com/116806974/223686614-48a181ee-3a1f-467f-9797-e0cf9274c7e6.png)
+
+SESSION 1 
+
+IDEAS , MOTIVATIONS SHARED BY PRATISHKA MORE CEO & FOUNDER AT SUSTAINABILITY 101
+
+LINKEDIN - https://www.linkedin.com/in/pratikshamore18
+
+SESSION 2 - HANDS ON WORK SESSION
+
+ANALYZING THE DATA 
+
+https://colab.research.google.com/drive/1jVEmkVVHS2NwzRDE7Je2mUfeIP4fwAkf#scrollTo=__4ICy6SmTqJ
+
+DATA SET CHART 
+
+https://colab.research.google.com/drive/1j8AvNehsSmFykF4W-WQkjazs2Cw_5wXB#scrollTo=L3WUrstLnCtz
+
+PERFORMANCE MATRIX
+
+https://colab.research.google.com/drive/1nqEvOPYD0QNxS8af8kkdMJ-I1KMQre0w#scrollTo=7CjFR_udosXO
+
+
+Datasets Used
+
+HALElifeExpectancyAtBirth.csv
+HALeWHOregionLifeExpectancyAtBirth.csv
+lifeExpectancyAtBirth.csv
+NOTE.txt
+WHOregionLifeExpectancyAtBirth.csv
+
+Mainly Used
+
+ofHaleInLifeExpectancy.csv
+
+
+
+
 
 
 
